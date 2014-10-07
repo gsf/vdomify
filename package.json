@@ -1,0 +1,11 @@
+{
+  "name": "vdomify",
+  "version": "0.0.0",
+  "description": "HTML -> VDOM",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "vdom-virtualize": "0.0.4",
+    "virtual-hyperscript": "^4.5.0"
+  }
+}
