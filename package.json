@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "HTML -> VDOM",
   "main": "index.js",
+  "repository": "git://github.com/gsf/vdomify.git",
   "license": "ISC",
   "dependencies": {
     "vdom-virtualize": "0.0.4",
